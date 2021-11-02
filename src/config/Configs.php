@@ -33,7 +33,7 @@ class Configs
     public static function loadConfigs()
     {
         // Using this command for tandom config changes
-        Artisan::call("config:cache");
+        //Artisan::call("config:cache");
         // get configuration file data
         $configs = config(self::CONFIG_FILE_NAME) ?? [];
 
