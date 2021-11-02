@@ -20,6 +20,7 @@ class Invoice extends Model
     ];
 
     protected $config = null;
+    //Configs embedded in Invoice
     protected $embeddedConfig = [];
 
 
