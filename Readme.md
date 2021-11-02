@@ -149,3 +149,10 @@ In your event, use it like the below:
         //Logic
     }
 ```
+## Credits
+
+- [Mohammad Foroughi][link-author-1]
+- [Erfan Rahbari][link-author-2]
+
+[link-author-1]: https://github.com/foroughi1380/
+[link-author-2]: https://github.com/erfanrhb
