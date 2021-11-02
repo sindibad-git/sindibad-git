@@ -1,0 +1,32 @@
+{
+    "name": "sindibad/zaincash",
+    "autoload": {
+        "psr-4": {
+            "sindibad\\zaincash\\": "src/"
+        }
+    },
+    "require-dev": {
+        "firebase/php-jwt": "^5.4"
+    },
+    "authors": [
+        {
+            "name": "Mohammad Foroughi",
+            "email": "foroughi1380@gmail.com"
+        },
+        {
+            "name": "Erfan Rahbari",
+            "email": "erfan.rahbari123@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "sindibad\\zaincash\\provider\\ZaincashServiceProvider"
+            ],
+            "aliases": {
+                "ZainCash": "sindibad\\zincash\\facades\\ZainCash"
+            }
+        }
+    }
+}
