@@ -1,10 +1,8 @@
 <p align="center"><img src="https://s20.picofile.com/file/8442506218/unnamed_removebg_preview.png?raw=true" alt="zaincash-image"></p>
 
 # Laravel #1 Payment Gateway For Zaincash
-[![Build Status](https://travis-ci.org/firebase/php-jwt.png?branch=master)](https://travis-ci.org/firebase/php-jwt)
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-[![Maintainability](https://api.codeclimate.com/v1/badges/e6a80b17298cb4fcb56d/maintainability)](https://codeclimate.com/github/shetabit/payment/maintainability)
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a href="https://github.com/sindibad-git/sindibad-git/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/sindibad-git/sindibad-git"></a>
+
 
 This is a Laravel Package for Payment Gateway Integration. This package supports `Laravel 5.5+`.
 
