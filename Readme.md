@@ -2,6 +2,7 @@
 
 # Laravel #1 Payment Gateway For Zaincash
 <a href="https://github.com/sindibad-git/sindibad-git/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/sindibad-git/sindibad-git"></a>
+<img alt="Packagist Version" src="https://img.shields.io/packagist/v/sindibad/zaincash">
 
 
 This is a Laravel Package for Payment Gateway Integration. This package supports `Laravel 5.5+`.
